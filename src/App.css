@@ -1,0 +1,19 @@
+.carousel .control-dots .dot {
+  background: white !important;
+  box-shadow: none !important;
+  opacity: 0.5 !important;
+}
+
+.carousel .control-dots .dot.selected {
+  opacity: 1 !important;
+}
+
+.carousel .control-arrow {
+  background: rgba(0, 0, 0, 0.2) !important;
+  height: 50px !important;
+  margin-top: -25px !important;
+}
+
+.carousel .control-arrow:hover {
+  background: rgba(0, 0, 0, 0.4) !important;
+}
