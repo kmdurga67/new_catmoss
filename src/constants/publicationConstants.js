@@ -2490,6 +2490,25 @@ export const publicationConstant = [
     other_details:"Catalysis Science & Technology, (2026)",
     year:"2026",
     doi:"https://doi.org/10.1039/D5CY01422K"
-  } 
+  } ,{
+ id:"pub_182",
+    title:"Atomic-Level Engineering in Lattice Strain-Driven Pt3Ir-Skin@Pt6IrCo with Mesoscale Mass Transport Regulation for Ammonia Oxidation Reaction in Direct Ammonia Fuel Cells",
+    authors:[
+      "Sidharth Barik",
+      "Pragnya Paramita Samal",
+      "Geeta Pandurang Kharabe",
+      "Rajashri Urkude",
+      "Swapnil Jadhav",
+      "Yogesh Kumar",
+      "Biplab Ghosh",
+      "Kirti Dahiya",
+      "C P Vinod*",
+      "Sailaja Krishnamurty*",
+      "Sreekumar Kurungot*",
+    ],
+    other_details:"ACS Catalysis, 6, 10, 9180–9198 (2026)",
+    year:"2026",
+    doi:"https://doi.org/10.1021/acscatal.6c00594"  
+  }
   
 ];
