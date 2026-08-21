@@ -2537,6 +2537,30 @@ export const publicationConstant = [
     doi:"https://doi.org/10.1002/cctc.70929"
    },{
  id:"pub_185",
+    title:"Stabilization of Ligand-Free Small Gold Nanocluster Within a Metal–Organic Framework for Enhanced Hydrogen Evolution and Horseradish Peroxidase-Mimicking Catalysis in Aqueous Media",
+    authors:[
+      "Glory James",
+      "Ravari Kandy Aparna",
+      "Dhananjay",
+      "Arun Karmakar",
+      "Vikas Tiwari",
+      "Udupa Sujit Manjunatha",
+      "Sona Shaju Rose",
+      "Alok Kumar",
+      "Nonappa",
+      "Seiji Yamazoe",
+      "Soichi Kikkawa",
+      "C P Vinod ",
+      "Ravishankar Narayanan ",
+      "Subrata Kundu ",
+      "Tarak Karmakar ",
+      "Sukhendu Mandal*",
+    ],
+    other_details:"Small,22 (46), e74276",
+    year:"2026",
+    doi:"https://doi.org/10.1002/smll.74276"
+   },{
+ id:"pub_186",
     title:"Unraveling the Mechanism of Higher Alcohol Production on the Ordered PdCu3 Nanointermetallic Surface during CO2 Electroreduction",
     authors:[
       "Debabrata Bagchi",
@@ -2557,7 +2581,7 @@ export const publicationConstant = [
     year:"2026",
     doi:"https://doi.org/10.1021/acscatal.6c02384"
    },{  
-id:"pub_186",
+id:"pub_187",
     title:"Selectivity Reversal from CO to Ethylene Products in CO2 Photoreduction via Electronic Modulation of SnS2 Using a Vinyl-Bridged Porous Organic Polymer",
     authors:[
       "Subhajit Chakraborty",
@@ -2578,7 +2602,7 @@ id:"pub_186",
     year:"2026",
     doi:"https://doi.org/10.1021/jacs.6c02822"
    },{
-id:"pub_187",
+id:"pub_188",
     title:"Ambient-pressure continuous-flow methane oxidation to methanol: Harnessing in-situ H2O2 generation for sustainable catalysis",
     authors:[
       "Pawan Kumar",
