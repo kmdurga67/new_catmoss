@@ -34,11 +34,6 @@ export const facilitiesConstant = [
     imageURL:FACILITY5,
     description:""
  },{
-    id:"fac_006",
-    nameOfInstrument:"Bruker In-situ FTIR",
-    imageURL:FACILITY6,
-    description:""
- },{
     id:"fac_007",
     nameOfInstrument:"MilliQ Water System",
     imageURL:FACILITY7,
