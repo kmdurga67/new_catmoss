@@ -2592,8 +2592,6 @@ id:"pub_187",
       "Rajashri Urkude",
       "Geetansh Chawla",
       "CP Vinod",
-      "Komalpreet Kaur",
-      "CP Vinod",
       "GT Kasun Kalhara Gunasooriya",
       "John Mondal",
       "Sebastian C Peter*",
@@ -2603,6 +2601,23 @@ id:"pub_187",
     doi:"https://doi.org/10.1021/jacs.6c02822"
    },{
 id:"pub_188",
+    title:"Poly(styrenesulfonate):Poly(3,4-ethylenedioxythiophene) (PSS:PEDOT) Based Mixed Electronic and Ionic Conducting COF",
+    authors:[
+      "Chitvan Jain",
+      "Rinku Kushwaha",
+      "Sudipta Majumder",
+      "Yashraj Singh",
+      "Piyush Singh",
+      "Augastus Camellus",
+      "CP Vinod",
+      "Atikur Rahman",
+      "Ramanathan Vaidhyanathan*",
+    ],
+    other_details:"Small, e74693",
+    year:"2026",
+    doi:"https://doi.org/10.1002/smll.74693"
+   },{
+id:"pub_189",
     title:"Ambient-pressure continuous-flow methane oxidation to methanol: Harnessing in-situ H2O2 generation for sustainable catalysis",
     authors:[
       "Pawan Kumar",
@@ -2616,6 +2631,6 @@ id:"pub_188",
     other_details:"Applied Surface Science,749, 167911 (2026)",
     year:"2026",
     doi:"10.1016/j.apsusc.2026.167911"           
-  }
+  },
   
 ];
